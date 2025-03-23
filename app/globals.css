@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+body {
+  @apply bg-center bg-cover min-h-screen;
+  background-image: url('/city.jpg');
+}
